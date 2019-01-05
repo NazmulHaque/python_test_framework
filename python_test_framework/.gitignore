@@ -1,0 +1,5 @@
+.idea
+*.pyc
+draft.py
+.DS_Store
+
